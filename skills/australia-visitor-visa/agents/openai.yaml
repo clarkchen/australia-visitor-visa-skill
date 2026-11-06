@@ -1,0 +1,4 @@
+interface:
+  display_name: "澳洲600访客签证材料助手"
+  short_description: "支持纯旅游、参会和陪同，整理材料并检查扫描件、附件大小与同行信息"
+  default_prompt: "使用 $australia-visitor-visa 按我的实际访问目的整理澳洲600访客签证材料、英文说明信和上传清单，并列出缺口。"
